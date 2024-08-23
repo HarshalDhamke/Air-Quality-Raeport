@@ -1,1 +1,1 @@
-# Air-Quality-Raeport
+# Air-Quality-report which is used to show air quality in each city of india, it also shows top 5 polluted city in india,it gives information about non polluted city in india and detail information about air quality which help government to take decision regarding air quality in that particular city
